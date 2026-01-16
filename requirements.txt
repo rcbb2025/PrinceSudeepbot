@@ -1,0 +1,8 @@
+pyrofork
+tgcrypto
+aiohttp
+pytz
+uvloop
+pymongo
+setuptools
+requests
